@@ -1,5 +1,5 @@
 # img_encrypty
-PIP Package for python encrypt the image files<br>
+PIP Package to encrypt the image files<br>
 Developers can contribute in this project.<br>
 
 required knowledge:<br>
